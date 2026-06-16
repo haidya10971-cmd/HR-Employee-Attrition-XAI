@@ -1,0 +1,34 @@
+# ============================================================
+# HR Attrition Decision Support System — requirements.txt
+# Covers: HR_DSS_GROQ_MIGRATION notebook + Streamlit app
+# ============================================================
+
+# ── Core Data & ML ───────────────────────────────────────────
+numpy
+pandas
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+matplotlib
+seaborn
+
+# ── Streamlit App ────────────────────────────────────────────
+streamlit
+
+# ── RAG / LangChain Stack ────────────────────────────────────
+protobuf==5.29.0
+langchain==0.2.17
+langchain-core==0.2.43
+langchain-community==0.2.19
+langchain-groq==0.1.9
+langchain-chroma==0.1.4
+langchain-text-splitters==0.2.4
+chromadb==0.5.3
+pypdf
+huggingface_hub
+fastembed
+overrides
+
+# ── Groq LLM ─────────────────────────────────────────────────
+groq

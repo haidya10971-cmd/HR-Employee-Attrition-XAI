@@ -1,0 +1,51 @@
+EmployeeNumber,Risk_%,Prediction,Status,Department
+14657,93.1,1,HIGH RISK,Research & Development
+14665,93.1,1,HIGH RISK,Research & Development
+14668,93.1,1,HIGH RISK,Research & Development
+5997,92.0,1,HIGH RISK,Sales
+5989,92.0,1,HIGH RISK,Sales
+6000,91.2,1,HIGH RISK,Sales
+17238,88.4,1,HIGH RISK,Research & Development
+17246,88.4,1,HIGH RISK,Research & Development
+17242,88.4,1,HIGH RISK,Research & Development
+17234,88.4,1,HIGH RISK,Research & Development
+3479,88.2,1,HIGH RISK,Human Resources
+3490,88.2,1,HIGH RISK,Human Resources
+3487,88.2,1,HIGH RISK,Human Resources
+3482,88.2,1,HIGH RISK,Human Resources
+17247,88.1,1,HIGH RISK,Research & Development
+17239,88.1,1,HIGH RISK,Research & Development
+17244,88.1,1,HIGH RISK,Research & Development
+17236,88.1,1,HIGH RISK,Research & Development
+5995,87.2,1,HIGH RISK,Sales
+5987,87.2,1,HIGH RISK,Sales
+14870,86.0,1,HIGH RISK,Research & Development
+14871,86.0,1,HIGH RISK,Research & Development
+14878,86.0,1,HIGH RISK,Research & Development
+14872,86.0,1,HIGH RISK,Research & Development
+14864,86.0,1,HIGH RISK,Research & Development
+14879,86.0,1,HIGH RISK,Research & Development
+2504,85.5,1,HIGH RISK,Research & Development
+2497,85.5,1,HIGH RISK,Research & Development
+3478,85.3,1,HIGH RISK,Human Resources
+3486,85.3,1,HIGH RISK,Human Resources
+11167,85.0,1,HIGH RISK,Sales
+11175,85.0,1,HIGH RISK,Sales
+11163,85.0,1,HIGH RISK,Sales
+11171,85.0,1,HIGH RISK,Sales
+2505,84.9,1,HIGH RISK,Research & Development
+2498,84.9,1,HIGH RISK,Research & Development
+11176,84.6,1,HIGH RISK,Sales
+11165,84.6,1,HIGH RISK,Sales
+11173,84.6,1,HIGH RISK,Sales
+11168,84.6,1,HIGH RISK,Sales
+6002,84.0,1,HIGH RISK,Research & Development
+5994,84.0,1,HIGH RISK,Research & Development
+5990,84.0,1,HIGH RISK,Research & Development
+5998,84.0,1,HIGH RISK,Research & Development
+14875,83.8,1,HIGH RISK,Research & Development
+3481,83.5,1,HIGH RISK,Human Resources
+3489,83.5,1,HIGH RISK,Human Resources
+5991,83.1,1,HIGH RISK,Sales
+5999,83.1,1,HIGH RISK,Sales
+10654,82.3,1,HIGH RISK,Research & Development

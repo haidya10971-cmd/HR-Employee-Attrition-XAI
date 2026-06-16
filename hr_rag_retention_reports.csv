@@ -1,0 +1,147 @@
+Positional_Rank,DataFrame_Index,Employee,Risk_%,Status,AI_Recommendation,Sources_Pages
+0,17459,EmployeeNumber 14668,93.1,HIGH RISK,"**RETENTION STRATEGY REPORT**
+
+Based on the provided employee profile and the Corporate HR Policy Manual, the following retention strategy is recommended:
+
+**IMMEDIATE (within 30 days)**
+
+1. **Automatic Underpayment Detection**: As per Clause 3.5.1, the HR Information System shall automatically flag employees meeting the criteria. Since the employee's performance rating is 3.0, which is below the required 4/5, this clause is not triggered. However, it is essential to review the employee's compensation to ensure it is fair and competitive.
+2. **Compensation Review**: Although the employee's performance rating does not meet the criteria for Clause 3.5.1, a compensation review is still necessary to ensure the employee's monthly income of $2625 is competitive. This review should be conducted within 30 days, as per Clause 3.5.2.
+3. **Notification of Development Engagement Risk**: As the employee has triggered the Development Engagement Risk (Article IV §4.8), the HR department should notify the employee and provide a plan to address this risk.
+
+**SHORT-TERM (1-6 months)**
+
+1. **Training and Development**: Provide the employee with training sessions to address the Development Engagement Risk. This should include a minimum of two training activities within the next six months, as per the HR Policy Manual.
+2. **Internal Vacancies and Lateral Transfers**: Consider the employee for internal vacancies and lateral transfers, as per the Stagnation Intervention Protocol.
+3. **Performance Improvement Plan**: Create a performance improvement plan to help the employee achieve a performance rating of 4/5 or higher, making them eligible for the Fast-Track Promotion Program (Section 2.4).
+
+**LONG-TERM (6-12 months)**
+
+1. **Fast-Track Promotion Program**: If the employee meets the eligibility requirements (Section 2.4, Clause 2.4.1), consider them for the Fast-Track Promotion Program.
+2. **Retention Adjustment Authority**: If the employee's performance and contributions warrant it, consider authorizing market adjustments, retention bonuses, or equity grants, as per Clause 3.5.3.
+3. **Career Progression**: Review the employee's career progression and provide opportunities for growth and development, ensuring that they are on a path to meet their career goals.
+
+**Automated Policy Trigger Summary**:
+
+* Overtime Protocol: Not triggered
+* Promotion Protocol: Not triggered (2 years since last promotion is below the 3-year threshold)
+* Training Protocol: Triggered, as the employee has completed fewer than two training activities in the last 12 months, meeting the criteria for Development Engagement Risk (Article IV §4.8)
+
+By following this retention strategy, the company can address the employee's Development Engagement Risk, improve their job satisfaction, and reduce the risk of attrition.","15, 9, 6, 8, 0, 14"
+1,17458,EmployeeNumber 14665,93.1,HIGH RISK,"**RETENTION STRATEGY REPORT**
+
+Based on the provided employee profile and the Corporate HR Policy Manual, the following retention strategy is recommended:
+
+**IMMEDIATE (within 30 days)**
+
+1. **Compensation Review**: As the employee's performance rating is 3.0, which is below the threshold of 4/5, Clause 3.5.1 – Automatic Underpayment Detection does not apply. However, considering the employee's high attrition risk and development engagement risk, a compensation review is necessary to ensure fair compensation. (Article V, Section 3.2 – Compensation Philosophy)
+2. **Training and Development**: The employee has completed fewer than two training activities in the last twelve months, triggering the Development Engagement Risk. Provide the employee with a personalized development plan, including training sessions and mentorship opportunities, to address this risk. (Article IV, §4.8 – Development Engagement Risk)
+
+**SHORT-TERM (1-6 months)**
+
+1. **Promotion Eligibility**: As the employee has been in their current role for 2 years, they are eligible for a promotion review. Consider promoting the employee to the next job level, subject to performance and business requirements. (Section 2.5 – Promotion Eligibility Framework, Minimum Time in Current Level)
+2. **Internal Vacancies and Lateral Transfers**: Consider the employee for internal vacancies, lateral transfers, or project leadership opportunities to provide new challenges and growth opportunities. (Stagnation Intervention Protocol)
+3. **Fast-Track Promotion Program**: If the employee's performance rating improves to 4.5/5 or higher for two consecutive review periods, they may be eligible for the Fast-Track Promotion Program. (Section 2.4 – Fast-Track Promotion Program, Clause 2.4.1 – Eligibility Requirements)
+
+**LONG-TERM (6-12 months)**
+
+1. **Career Progression**: Continue to monitor the employee's career progression and provide opportunities for growth and development. Consider providing a clear career path and succession planning to ensure the employee's long-term engagement and retention. (Article V, Section 2.5 – Promotion Eligibility Framework)
+2. **Retention Adjustment Authority**: If the employee's attrition risk remains high, consider authorizing market adjustments, retention bonuses, or equity grants to retain the employee. (Clause 3.5.3 – Retention Adjustment Authority)
+
+**Automated Policy Trigger Summary**:
+
+* Overtime Protocol: Not triggered
+* Promotion Protocol: OK (2 yr — below 3-yr threshold)
+* Training Protocol: ALERT — triggers Article IV §4.8 Development Engagement Risk
+
+The following HR protocols must be automatically triggered right now:
+
+* Development Engagement Risk protocol (Article IV, §4.8)
+* Compensation review (Article V, Section 3.2 – Compensation Philosophy)
+
+By implementing these retention strategies, the company can address the employee's development engagement risk, provide opportunities for growth and development, and reduce the risk of attrition.","15, 9, 7, 6, 8, 0"
+2,17454,EmployeeNumber 14657,93.1,HIGH RISK,"**RETENTION STRATEGY REPORT**
+
+Based on the provided employee profile and the Corporate HR Policy Manual, the following retention strategy is recommended:
+
+**IMMEDIATE (within 30 days)**
+
+1. **Compensation Review**: As the employee's monthly income ($2625) is below the maximum monthly income for Job Level 1 ($3500), and considering the employee's performance rating (3.0) and tenure (2 years), a compensation review is warranted (Article V, Section 3.8 - Retention Risk Compensation Review). The HR Information System should automatically flag this employee for a compensation review within 30 days (Clause 3.5.2 - Mandatory Compensation Review).
+2. **Automatic Underpayment Detection**: The employee's compensation should be reviewed to determine if it is below 90% of the market median, considering their performance rating and tenure (Clause 3.5.1 - Automatic Underpayment Detection).
+
+**SHORT-TERM (1-6 months)**
+
+1. **Training and Development**: The employee has completed fewer than two training activities in the last twelve months, triggering the ""Development Engagement Risk"" classification. To address this, the employee should be enrolled in relevant training sessions to enhance their skills and engagement (Article IV, §4.8 - Development Engagement Risk).
+2. **Internal Vacancies and Lateral Transfers**: The employee should be considered for internal vacancies, lateral transfers, or project leadership opportunities to provide new challenges and growth prospects (Article V, Section 5.1 - Integrated Retention Governance Framework).
+3. **Performance Rating Improvement**: The employee's performance rating (3.0) is below the threshold for Fast-Track Promotion consideration (4.5/5 or higher for two consecutive review periods). The employee should receive feedback and coaching to improve their performance rating (Clause 2.4.1 - Eligibility Requirements for Fast-Track Promotion Program).
+
+**LONG-TERM (6-12 months)**
+
+1. **Fast-Track Promotion Program**: If the employee's performance rating improves to 4.5/5 or higher for two consecutive review periods, they should be considered for the Fast-Track Promotion Program (Clause 2.4.1 - Eligibility Requirements for Fast-Track Promotion Program).
+2. **Retention Adjustment Authority**: The HR department may authorize market adjustments, retention bonuses, or equity grants to retain the employee, considering their critical business contribution and demonstrated organizational impact (Clause 3.5.3 - Retention Adjustment Authority).
+3. **Level 3 Allocation**: The employee's eligibility for Level 3 allocation should be reviewed, considering their critical business contribution, executive-approved retention candidate status, and demonstrated organizational impact (Clause 3.7.3 - Level 3 Allocation).
+
+**Automated Policy Trigger Summary**:
+
+* Overtime Protocol: Not triggered
+* Promotion Protocol: Not triggered (2 years since last promotion is below the 3-year threshold)
+* Training Protocol: Triggered - Development Engagement Risk (Article IV, §4.8)
+
+By following this retention strategy, the company can address the employee's development engagement risk, improve their job satisfaction, and reduce the likelihood of attrition.","15, 9, 6, 10, 8, 0"
+3,17419,EmployeeNumber 5997,92.0,HIGH RISK,"**RETENTION STRATEGY REPORT**
+
+Based on the provided employee profile, the employee is classified as a ""Development Engagement Risk"" due to completing fewer than two training activities in twelve months (Article IV, §4.8). The employee's high predicted risk of 92.0% and low job satisfaction score of 2 also indicate a need for immediate attention.
+
+**IMMEDIATE (within 30 days)**
+
+1. **Mandatory Compensation Review**: Although the employee's monthly income is $2716, which is not explicitly stated as below 90% of market median, a review is still necessary to ensure fair compensation. As per Clause 3.5.2, a compensation review should be conducted within 30 days to determine if the employee's compensation is below market standards.
+2. **Training Requirements**: The employee has not completed any training sessions in the last year, triggering the Development Engagement Risk protocol. As per Article II, §2.2, the company should provide training requirements to ensure the employee receives fair growth opportunities.
+3. **Performance History Review**: As the employee's performance rating is 4.0, a review of their performance history should be conducted to identify areas of strength and weakness (Clause 2.3.2).
+
+**SHORT-TERM (1-6 months)**
+
+1. **Career Path Review**: Conduct a career path review to identify opportunities for growth and development, including training requirements, succession planning opportunities, and leadership potential (Article II, §2.2).
+2. **Stock Option Level Review**: As the employee has a performance rating of 4.0, they may be eligible for a stock option level review. According to Clause 3.7.1, the employee may be eligible for Level 1 allocation, which requires a minimum of one year tenure and a performance rating ≥ 3.5.
+3. **Workload Planning Review**: Although the employee does not have overtime, a workload planning review may still be necessary to ensure a healthy work-life balance (Article V, §5.1).
+
+**LONG-TERM (6-12 months)**
+
+1. **Succession Planning Opportunities**: Provide the employee with succession planning opportunities to ensure they have a clear career path and growth opportunities (Article II, §2.2).
+2. **Leadership Potential Development**: Identify and develop the employee's leadership potential to ensure they have opportunities for growth and advancement (Article II, §2.2).
+3. **Retention Adjustment Authority**: Consider authorizing market adjustments, retention bonuses, or equity grants to ensure the employee's compensation is competitive and reflective of their value to the company (Clause 3.5.3).
+
+**AUTOMATED POLICY TRIGGER SUMMARY**
+
+* Development Engagement Risk protocol is triggered due to the employee's low training participation.
+* Promotion Protocol is not triggered as the employee has not been with the company for three years or more.
+* Training Protocol is triggered due to the employee's low training participation.
+
+By following this retention strategy, the company can address the employee's development needs, provide opportunities for growth and advancement, and ensure fair compensation, ultimately reducing the risk of attrition.","15, 9, 4, 5, 10, 0"
+4,17415,EmployeeNumber 5989,92.0,HIGH RISK,"**RETENTION STRATEGY REPORT**
+
+Based on the provided employee profile, the employee is classified as a ""Development Engagement Risk"" due to completing fewer than two training activities in twelve months and having over two years tenure is not applicable in this case as the employee has only 1 year of tenure. However, the employee's training sessions last year were 0.0, which triggers the Development Engagement Risk.
+
+**IMMEDIATE (within 30 days)**
+
+1. **Mandatory HR Assessment**: Although the employee does not meet the criteria for Clause 2.3.1 – Automatic Trigger, the HR department should conduct a formal assessment to identify the reasons for the lack of training participation (Article II, Section 2.3, Clause 2.3.2).
+2. **Compensation Review**: Since the employee's performance rating is 4.0, which is above the threshold, and the employee's monthly income is $2716, which may be below the market median, the HR department should review the employee's compensation package to ensure it is fair and competitive (Article V, Section 5.1, Clause 3.5.1).
+3. **Automatic Underpayment Detection**: The HR Information System should flag the employee for underpayment detection, as the employee's performance rating and tenure meet the criteria (Article V, Section 5.1, Clause 3.5.1).
+
+**SHORT-TERM (1-6 months)**
+
+1. **Training and Development**: Provide the employee with training opportunities to enhance their skills and knowledge, as required by Article II, Section 2.2, Clause 4.
+2. **Career Path Review**: Conduct a career path review to identify opportunities for growth and development, as required by Article II, Section 2.2.
+3. **Stock Option Level Review**: Review the employee's stock option level, as the employee's performance rating is 4.0, which may qualify them for a higher stock option level (Article V, Section 5.1, Clause 3.7.1 and Clause 3.7.2).
+
+**LONG-TERM (6-12 months)**
+
+1. **Succession Planning**: Identify opportunities for succession planning, as required by Article II, Section 2.2, Clause 5.
+2. **Leadership Potential**: Assess the employee's leadership potential, as required by Article II, Section 2.2, Clause 6.
+3. **Retention Adjustment**: Consider retention adjustments, such as market adjustments, retention bonuses, or equity grants, to ensure the employee's compensation package is competitive and aligned with their performance (Article V, Section 5.1, Clause 3.5.3).
+
+**AUTOMATED POLICY TRIGGER SUMMARY**
+
+* **Training Protocol**: The employee's lack of training participation triggers the Development Engagement Risk protocol.
+* **Compensation Review**: The employee's performance rating and monthly income may trigger the Automatic Underpayment Detection protocol.
+
+By following this retention strategy, the company can address the employee's development needs, ensure fair compensation, and provide opportunities for growth and development, ultimately reducing the risk of attrition.","15, 9, 4, 5, 10, 0"

@@ -1,0 +1,37 @@
+Feature,Importance
+PerformanceRating,0.091131136
+EducationField,0.08041557
+OverTime,0.06324342
+StockOptionLevel,0.054752912
+Age,0.031811364
+JobLevel,0.031710193
+Department,0.028404173
+NumCompaniesWorked,0.027758887
+TrainingTimesLastYear,0.02746165
+BusinessTravel,0.027429283
+JobSatisfaction,0.026262384
+DailyRate,0.026140407
+SatisfactionScore,0.024905676
+MaritalStatus,0.024307901
+YearsInCurrentRole,0.02371251
+MonthlyIncome,0.022729697
+YearsWithCurrManager,0.022585457
+DistanceFromHome,0.021917999
+Employee Source,0.021672314
+IncomePerExp,0.021617692
+JobInvolvement,0.021088837
+PercentSalaryHike,0.02105804
+PromotionLag,0.020829562
+JobRole,0.02046816
+LoyaltyRatio,0.020170663
+MonthlyRate,0.020072706
+Education,0.019821158
+EnvironmentSatisfaction,0.01975031
+TotalWorkingYears,0.019157922
+YearsSinceLastPromotion,0.01894612
+RelationshipSatisfaction,0.018767476
+HourlyRate,0.01792993
+Application ID,0.01719633
+YearsAtCompany,0.017026521
+Gender,0.014547476
+WorkLifeBalance,0.013198075
