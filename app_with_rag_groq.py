@@ -65,6 +65,7 @@ st.set_page_config(
 _RAG_AVAILABLE: bool   = False
 _RAG_IMPORT_ERROR: str = ""
 
+
 try:
     from langchain_community.document_loaders import PyPDFLoader
     from langchain.text_splitter import RecursiveCharacterTextSplitter
